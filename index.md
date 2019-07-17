@@ -4,6 +4,10 @@
 
 Christian Rafael de Souza Silva
 
+E-mail: christianparadix@gmail.com
+
+WhatsApp: +55 18 9 9726-4605
+
 Idade: 22 anos
 
 Cidade: Birigui/SP
