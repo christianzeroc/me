@@ -65,6 +65,7 @@ Gigatron Franchising (2016-Atualmente)
   - Delphi
   - Desenvolvimento de Aplicativos Híbridos (Cordova+Ionic)
   - Android Studio
+  - Desenvolvimento de sites
   - Fundador de uma startup encubada dentro da empresa (www.dotbank.com.br), desenvolvimento de soluções para area financeira.
   
 Usuario Debian + Cinnamon (Anteriores: Arch Linux e Slackware)
@@ -72,5 +73,6 @@ Usuario Debian + Cinnamon (Anteriores: Arch Linux e Slackware)
 Youtube: https://www.youtube.com/channel/UCbqxQYCtd4M5rfReY7loHXg
   - Install QEMU 1.2.0 on Slackware 14.2 https://www.youtube.com/watch?v=d3BtWC8YhT8
   - Install PostgreSQL 11.2 on Slackware 14.2 https://www.youtube.com/watch?v=XPyN_YUKN0k
+
 Facebook: https://www.facebook.com/christianelieli3228
 Github: https://github.com/christianelieli/
