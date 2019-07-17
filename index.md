@@ -1,8 +1,10 @@
 ## Isaías 9:6
 
 Christian Rafael de Souza Silva
+
 Idade: 22 anos
-Birigui/SP
+
+Cidade: Birigui/SP
 
 Profissão: Programador
 Linguagens: PHP, Pascal (Delphi), SQL
