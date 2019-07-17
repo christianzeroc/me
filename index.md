@@ -7,8 +7,11 @@ Idade: 22 anos
 Cidade: Birigui/SP
 
 Profissão: Programador
+
 Linguagens: PHP, Pascal (Delphi), SQL
+
 Sistemas Operacionais: Linux, Windows
+
 Idiomas: Português
 
 Escolaridade: Ensino Medio Completo (2014)
