@@ -1,37 +1,71 @@
-## Welcome to GitHub Pages
+## Isaías 9:6
 
-You can use the [editor on GitHub](https://github.com/christianelieli/me/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Christian Rafael de Souza Silva
+Idade: 22 anos
+Birigui/SP
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Profissão: Programador
+Linguagens: PHP, Pascal (Delphi), SQL
+Sistemas Operacionais: Linux, Windows
+Idiomas: Português
 
-### Markdown
+Escolaridade: Ensino Medio Completo (2014)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Cursos:
+- Técnico em Mecatronica (Colegio Salesiano Dom Lasagna Aracatuba)
+  - Projeto de conclusão: carrinho controlado via bluetooth (Arduino + Android)
+- Web Design (InfoPrise Birigui)
 
-```markdown
-Syntax highlighted code block
+Experiencia Profissional:
 
-# Header 1
-## Header 2
-### Header 3
+Gigatron Tecnologia (2012-2012) Programador (Menor Aprendiz) - Birigui/SP
+  - Delphi
+  - Firebird (Banco de Dados)
 
-- Bulleted
-- List
+Assessor Publico (2012-2013) Programador (Menor Aprendiz) - Araçatuba/SP
+  - Pesquisa e Desenvolvimento
+  - Genexus
+  - OpenVPN (Estudo e desenvolvimento de manual de implantação de VPN usando Amazon Web Services)
 
-1. Numbered
-2. List
+Milk Digital Solutions (2013-2013) - Negócio Próprio 
+  - Desenvolvimento de projetos de softwares para web sob demanda
+  - PHP
+  - MySQL
+  - Python
+  - Django
+  - Servidores Linux - Nginx
 
-**Bold** and _Italic_ and `Code` text
+Gigatron Tecnologia (2013-2014) - Programador
+  - Desenvolvimento de Gateway para envio de SMS. Hardware interno.
+  - Delphi
+  - PHP
+  - MySQL
 
-[Link](url) and ![Image](src)
-```
+Netstart Informatica (2014-2016) - Programador Júnior
+  - Manutenção e implementação em software de gestão
+  - Delphi
+  - PostgreSQL
+  - C#
+  - PHP
+  - MySQL
+  - Redis (Desenvolvimento de fila para processamento de informações SAT Fiscal)
+  
+Gigatron Franchising (2016-Atualmente)
+  - PHP
+  - Laravel
+  - Angular
+  - PostgreSQL
+  - Servidores Linux (Digital Ocean e Rede Interna virtualizada Xen)
+  - Nginx, Varnish, Apache
+  - Delphi
+  - Desenvolvimento de Aplicativos Híbridos (Cordova+Ionic)
+  - Android Studio
+  - Fundador de uma startup encubada dentro da empresa (www.dotbank.com.br), desenvolvimento de soluções para area financeira.
+  
+Usuario Debian + Cinnamon (Anteriores: Arch Linux e Slackware)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/christianelieli/me/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Youtube: https://www.youtube.com/channel/UCbqxQYCtd4M5rfReY7loHXg
+  - Install QEMU 1.2.0 on Slackware 14.2 https://www.youtube.com/watch?v=d3BtWC8YhT8
+  - Install PostgreSQL 11.2 on Slackware 14.2 https://www.youtube.com/watch?v=XPyN_YUKN0k
+Facebook: https://www.facebook.com/christianelieli3228
+Github: https://github.com/christianelieli/
