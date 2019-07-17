@@ -8,7 +8,7 @@ Cidade: Birigui/SP
 
 Profissão: Programador
 
-Linguagens: PHP, Pascal (Delphi), SQL
+Linguagens: PHP, Pascal (Delphi), SQL, HTML, CSS.
 
 Sistemas Operacionais: Linux, Windows
 
