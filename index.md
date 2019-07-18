@@ -74,7 +74,7 @@ Gigatron Franchising (2016-Atualmente)
   - Desenvolvimento de sites
   - Fundador de uma startup encubada dentro da empresa (www.dotbank.com.br), desenvolvimento de soluções para area financeira.
   
-Usuario Debian + Cinnamon (Anteriores: Arch Linux e Slackware)
+Usuario Debian + Cinnamon (Anteriores: Arch Linux + Cinnamon e Slackware + Kde3 (Trinity))
 
 Youtube: https://www.youtube.com/channel/UCbqxQYCtd4M5rfReY7loHXg
   - Install QEMU 1.2.0 on Slackware 14.2 https://www.youtube.com/watch?v=d3BtWC8YhT8
