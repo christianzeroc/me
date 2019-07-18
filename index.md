@@ -78,7 +78,9 @@ Usuario Debian + Cinnamon (Anteriores: Arch Linux + Cinnamon e Slackware + Kde3 
 
 Youtube: https://www.youtube.com/channel/UCbqxQYCtd4M5rfReY7loHXg
   - Install QEMU 1.2.0 on Slackware 14.2 https://www.youtube.com/watch?v=d3BtWC8YhT8
+    [![Deus é Fiel](https://img.youtube.com/vi/d3BtWC8YhT8/0.jpg)](https://www.youtube.com/watch?v=d3BtWC8YhT8)
   - Install PostgreSQL 11.2 on Slackware 14.2 https://www.youtube.com/watch?v=XPyN_YUKN0k
+    [![Deus é Fiel](https://img.youtube.com/vi/XPyN_YUKN0k/0.jpg)](https://www.youtube.com/watch?v=XPyN_YUKN0k)
 
 Facebook: https://www.facebook.com/christianelieli3228
 
