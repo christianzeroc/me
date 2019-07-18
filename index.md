@@ -61,7 +61,7 @@ Netstart Informatica (2014-2016) - Programador Júnior - Birigui/SP
   - MySQL
   - Redis (Desenvolvimento de fila para processamento de informações SAT Fiscal)
   
-Gigatron Franchising (2016-Atualmente) - Birigui/SP
+Gigatron Franchising (2016-Atualmente) - Programador - Birigui/SP
   - PHP
   - Laravel
   - Angular
