@@ -38,7 +38,7 @@ Assessor Publico (2012-2013) Programador (Menor Aprendiz) - Araçatuba/SP
   - Genexus
   - OpenVPN (Estudo e desenvolvimento de manual de implantação de VPN usando Amazon Web Services)
 
-Milk Digital Solutions (2013-2013) - Negócio Próprio 
+Milk Digital Solutions (2013-2013) - Negócio Próprio - Birigui/SP
   - Desenvolvimento de projetos de softwares para web sob demanda
   - PHP
   - MySQL
@@ -46,13 +46,13 @@ Milk Digital Solutions (2013-2013) - Negócio Próprio
   - Django
   - Servidores Linux - Nginx
 
-Gigatron Tecnologia (2013-2014) - Programador
+Gigatron Tecnologia (2013-2014) - Programador - Birigui/SP
   - Desenvolvimento de Gateway para envio de SMS. Hardware interno.
   - Delphi
   - PHP
   - MySQL
 
-Netstart Informatica (2014-2016) - Programador Júnior
+Netstart Informatica (2014-2016) - Programador Júnior - Birigui/SP
   - Manutenção e implementação em software de gestão
   - Delphi
   - PostgreSQL
@@ -61,7 +61,7 @@ Netstart Informatica (2014-2016) - Programador Júnior
   - MySQL
   - Redis (Desenvolvimento de fila para processamento de informações SAT Fiscal)
   
-Gigatron Franchising (2016-Atualmente)
+Gigatron Franchising (2016-Atualmente) - Birigui/SP
   - PHP
   - Laravel
   - Angular
