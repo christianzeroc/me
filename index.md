@@ -6,8 +6,6 @@ Christian Rafael de Souza Silva
 
 E-mail: christianparadix@gmail.com
 
-WhatsApp: +55 18 9 9726-4605
-
 Idade: 22 anos
 
 Cidade: Birigui/SP
@@ -75,8 +73,6 @@ Gigatron Franchising (2016-Atualmente) - Programador - Birigui/SP
   - Fundador de uma startup encubada dentro da empresa (www.dotbank.com.br), desenvolvimento de soluções para area financeira.
   
 Usuario Debian + Cinnamon (Anteriores: Arch Linux + Cinnamon e Slackware + Kde3 (Trinity))
-
-Facebook: https://www.facebook.com/christianelieli3228
 
 Github: https://github.com/christianelieli/
 
