@@ -4,7 +4,7 @@ E-mail: christianparadix@gmail.com
 
 Telefone: +55 18 997264605
 
-Idade: 22 anos
+Idade: 23 anos
 
 Cidade: Birigui/SP
 
@@ -16,7 +16,7 @@ Sistemas Operacionais: Linux, Windows
 
 Idiomas: Português
 
-Escolaridade: Ensino Medio Completo (2014)
+Escolaridade: Ensino Medio Completo (2014) - Curso Superior de Tecnologia em Ciência de Dados (Uninter 2020-2023)
 
 Cursos:
 - Técnico em Mecatronica (Colegio Salesiano Dom Lasagna Aracatuba)
@@ -72,7 +72,7 @@ Gigatron Franchising (2016-Atualmente) - Programador - Birigui/SP
   
 Usuario Debian + Cinnamon (Anteriores: Arch Linux + Cinnamon e Slackware + Kde3 (Trinity))
 
-Github: https://github.com/christianelieli/
+Github: https://github.com/christianzeroc/
 
 Youtube: https://www.youtube.com/channel/UCbqxQYCtd4M5rfReY7loHXg
   - Install QEMU 1.2.0 on Slackware 14.2 https://www.youtube.com/watch?v=d3BtWC8YhT8
